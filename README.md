@@ -286,7 +286,7 @@ Please follow conventional commits and run tests / linters before opening a PR.
 
 ## License
 
-MIT © Your Name / Organization
+MIT © Saurabh kumar Jain & Shamma
 
 ---
 
